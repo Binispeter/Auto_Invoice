@@ -10,8 +10,8 @@ import re
 from sys import exit
 
 emp_options = Options()
-#emp_options.add_argument('--headless')
-#emp_options.add_argument('--disable-gpu')
+emp_options.add_argument('--headless')
+emp_options.add_argument('--disable-gpu')
 
 #Product's Info
 prod_quantities = []
