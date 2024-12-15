@@ -1,0 +1,4 @@
+emporiorologionUsername
+emporiorologionPassword
+livecisadminUsername
+livecisadminPassword
